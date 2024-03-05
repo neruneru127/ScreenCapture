@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6BSyptsTZO75m/7AOsCh4BJ6Jg6g/Iei0ET/YIjl0U9fsL+q5iJqgpeqay7Z7JJf349DGMG4ZKwBR97Pc7zOxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yuuki\\source\\repos\\ScreenCapture\\ScreenCapture\\ScreenCapture.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yuuki\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.29\\microsoft.windows.sdk.net.ref.10.0.19041.29.nupkg.sha512"
+  ],
+  "logs": []
+}
